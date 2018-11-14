@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+	font-size:34px;
+	border:#CF0;
+	background-image:url(photos/genre-classic.JPG);
+	text-align-last:center;
+	alignment-baseline:after-edge;
+	color:#CC3;
+	}
+#nav-wrapper {
+width:700px;
+margin:0 auto;
+padding:20px 60;
+background:#3D3331;
+
+
+}
+	
+	ul#nav {
+		font-size:17px;
+
+list-style:none;
+margin:0 auto;
+
+}
+ul#nav li {
+display:inline;
+}	
+ul#nav li a {
+text-decoration:none;
+display: block;
+padding:2px 9px;
+background:#5F3222;
+color:#eee;
+float:left;
+text-align:center;
+
+}
+ul#nav li a:hover {
+background:#a37666;
+color:#000;
+
+float:left
+}
+h1 {
+	text-align: center;
+	 color: purple; 
+}
+
+p {
+
+	 font-size: medium; 
+font-family: sans-serif; 
+}
+
+body {
+	
+	background-color:#999;
+	
+    
+	
+	
+}
+
+footer{
+	    background-image:url(photos/genre-classic.JPG);
+		color:#FFF;
+		
+}
+li {
+	list-style: none;
+	display: inline;
+	margin: 0 auto;
+	height: 1em;
+	line-height: 2em;
+	float: right;
+	width: 5em;
+	text-align: center;
+	text-align: left;
+	color: #F00;
+	text-decoration: none;
+	
+	
+}
+
+.Main h1{
+		font-size:24px;`
+		
+	
+	}
+	#Photos{
+		
+		width: 40%;
+		margin: 4%;
+		
+		background: yellow;
+           float: right;
+            margin: 0 12px;
+		}
+div Photos{
+	float: left;
+}
+ #main2{
+	color:#000;
+	
+	float:left;
+	
+}
+#photo1{
+	text-wrap:normal;
+	float: left;
+
+	
+}
+#container {
+	 width:960px;
+	 margin-left: auto;
+	 margin-right: auto;
+	 padding: 0px;
+	 background-color:#FFF;
+}
